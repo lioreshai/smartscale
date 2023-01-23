@@ -176,6 +176,7 @@ void setup_web_server() {
     display.display();
     delay(400);
   }
+  display.clearDisplay();    
   display.setCursor(0,0);            
   display.print(F("Connected to WiFi!"));
   display.drawLine(0,10,display.width()-1, 10, SSD1306_WHITE);
