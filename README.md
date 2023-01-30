@@ -18,7 +18,7 @@ See full writeup and project guide [here](https://liore.com/arduino-esp32-load-c
 * `HX711` by bogde
 * `Adafruit_SSD1306` by Adafruit
 * `ezButton` by ArduinoGetStarted
-We'll assume that you have the EEPROM, WiFi, and WebServer libraries that are a part of the ESP32 core.*
+* We'll assume that you have the EEPROM, WiFi, and WebServer libraries as they are part of the ESP32 core.
 
 ## Smart scale schematic
 
